@@ -1,6 +1,6 @@
 ## Recriando a interface do Netflix com Reactjs
 
-Projeto do Desafio do  Bootcamp HTML Web Developer da Digital Inovation One, ecriando a interface do Netflix com Reactjs. 
+Projeto do Desafio do  Bootcamp HTML Web Developer da Digital Inovation One, criando a interface do Netflix com Reactjs. 
 
 Digital Inovation One!
 [Bootcamp HTML Web Developer](https://web.dio.me/track/html-web-developer)
