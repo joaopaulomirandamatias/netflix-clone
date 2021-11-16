@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+## Recriando a interface do Netflix com Reactjs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto do Desafio do  Bootcamp HTML Web Developer da Digital Inovation One, ecriando a interface do Netflix com Reactjs. 
+
+Digital Inovation One!
+[Bootcamp HTML Web Developer](https://web.dio.me/track/html-web-developer)
+
+## Getting Started with Create React App
 
 ## Available Scripts
 
